@@ -51,9 +51,13 @@ export default function Home() {
     document.getElementById(targetId)?.scrollIntoView({ behavior: 'smooth' });
   };
 
-  const floatingAnimation = {
+ const floatingAnimation = {
     y: ["0%", "-3%", "0%"],
-    transition: { duration: 3, repeat: Infinity, ease: "easeInOut" }
+    transition: { 
+      duration: 3, 
+      repeat: Infinity, 
+      ease: "easeInOut" as const 
+    }
   };
 
   const navLinks = [
