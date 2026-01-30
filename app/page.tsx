@@ -56,7 +56,7 @@ export default function Home() {
     transition: { 
       duration: 3, 
       repeat: Infinity, 
-      ease: "easeInOut" as const 
+      ease: "easeInOut" as const // <--- Add 'as const' here
     }
   };
 
