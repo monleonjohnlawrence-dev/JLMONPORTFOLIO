@@ -261,7 +261,7 @@ export default function Home() {
                 ))}
               </div>
             </div>
-            <footer className="pt-20 opacity-20 text-[10px] uppercase tracking-[0.5em]">© 2026 EXODUS 14:14 • THE LORD WILL FIGHT FOR YOU JUST STAY CALM</footer>
+            <footer className="pt-20 opacity-20 text-[10px] uppercase tracking-[0.5em]">EXODUS 14:14 • THE LORD GOD WILL FIGHT FOR YOU JUST STAY CALM</footer>
           </div>
         </section>
       </main>
