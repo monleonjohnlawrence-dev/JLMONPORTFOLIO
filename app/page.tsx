@@ -239,7 +239,7 @@ export default function Home() {
             <h2 className="text-6xl md:text-9xl font-black tracking-tighter uppercase leading-none">READY TO <br /> <span className="text-cyan-500">CONNECT?</span></h2>
             
             <div className="flex flex-col items-center gap-12">
-              <motion.a href="mailto:jlmonleon18@gmail.com" whileHover={{ scale: 1.05 }} className="px-16 py-8 rounded-2xl font-black uppercase text-sm tracking-[0.3em] bg-cyan-500 text-black flex items-center gap-4">
+              <motion.a href="mailto:monleonjohnlawrence@gmail.com" whileHover={{ scale: 1.05 }} className="px-16 py-8 rounded-2xl font-black uppercase text-sm tracking-[0.3em] bg-cyan-500 text-black flex items-center gap-4">
                 <Mail size={20} /> Send Pulse
               </motion.a>
 
@@ -261,7 +261,7 @@ export default function Home() {
                 ))}
               </div>
             </div>
-            <footer className="pt-20 opacity-20 text-[10px] uppercase tracking-[0.5em]">© 2026 ARCHITECTURAL NODE • ALL RIGHTS RESERVED</footer>
+            <footer className="pt-20 opacity-20 text-[10px] uppercase tracking-[0.5em]">© 2026 EXODUS 14:14 • THE LORD WILL FIGHT FOR YOU JUST STAY CALM</footer>
           </div>
         </section>
       </main>
