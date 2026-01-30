@@ -120,7 +120,7 @@ export default function Home() {
         <section className="relative flex flex-col lg:flex-row min-h-screen items-center justify-center gap-16 pt-32 lg:pt-20">
           <div className="flex-1 text-center lg:text-left z-10 order-2 lg:order-1">
             <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full border border-cyan-500/30 text-[10px] uppercase tracking-widest mb-6 bg-cyan-500/5 text-cyan-400">
-              <Sparkles size={12} /> INITIALIZING PROTOCOL
+              <Sparkles size={12} /> INITIALIZING FUTURE .....
             </div>
             <h1 className="text-5xl md:text-7xl lg:text-[100px] font-black tracking-tighter leading-[0.9] mb-8">
               JL MONLEON<br /> <span className="text-cyan-500">FULL STACK DEVELOPER </span>
@@ -159,7 +159,7 @@ export default function Home() {
             <div className="space-y-10">
               <h2 className="text-6xl md:text-8xl font-black tracking-tighter uppercase mb-4">ABOUT ME</h2>
               <p className="text-xl md:text-2xl leading-relaxed font-light opacity-70">
-                Stripping away the noise to find the essence of interaction. My design philosophy balances the weight of <span className="text-cyan-400 font-medium">Charcoal</span> with the clarity of <span className="text-cyan-400 font-medium">Aqua</span>.
+                Driven, detail-oriented, and highly adaptable, I value collaboration, clear communication, and continuous growth. I am a Full Stack Developer and BSIT graduate who crafts modern, reliable, and scalable digital solutions grounded in creativity and precision. I focus on stripping away complexity to reveal the essence of interaction, balancing functionality and aesthetics to deliver intuitive, purposeful, and impactful user-centered digital experiences.
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">
                 {['FULL STACK DEVELOPER', 'BACK END', 'FRONT END', 'DESIGNER'].map((item) => (
